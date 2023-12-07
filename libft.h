@@ -6,7 +6,7 @@
 /*   By: aait-lfd <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/08 14:04:16 by aait-lfd          #+#    #+#             */
-/*   Updated: 2022/10/22 15:11:19 by aait-lfd         ###   ########.fr       */
+/*   Updated: 2023/12/07 16:02:32 by aait-lfd         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,6 +20,7 @@
 # include <string.h>
 # include <strings.h>
 # include <unistd.h>
+#include <stdint.h>
 
 /*------------------------------ PART 1 ------------------------------*/
 int						ft_isalpha(int c);
